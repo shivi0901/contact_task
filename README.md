@@ -22,7 +22,7 @@ Follow these steps to set up and run the project:
 2. Create a MySQL database and table using the provided SQL script in `create_table.sql`.
 3. Configure the database connection in `process_form.php` by updating the `$host`, `$db_user`, `$db_password`, and `$db_name` variables.
 4. Update the SMTP settings in `process_form.php` to use a valid SMTP server for sending email notifications.
-5. Open the form in a web browser by navigating to `http://localhost/contact_form/welcome.html`.
+5. Open the form in a web browser by navigating to `http://localhost/contact_form/contact_form.html`.
 
 ## Usage
 
